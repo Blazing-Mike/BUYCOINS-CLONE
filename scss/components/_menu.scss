@@ -1,8 +1,8 @@
 @import "../utils/settings";
 
 .Navbar {
-    justify-content: space-between;
-    padding: 30px 10px;
+    justify-content: space-evenly;
+    padding: 25px 10px;
     background: $grey;
 
     .Navbar__toggle {
@@ -47,10 +47,18 @@
 @media (min-width: 760px) {
     .Navbar {
         justify-content: space-around;
+        padding: 5px 10px;
+
+        .Navbar__logo {
+            position: relative;
+            left: 10px;
+            top: 15px;
+        }
 
         .Navbar__items {
             display: flex;
             gap: 1rem;
+            margin-top: 2rem;
         }
     }
 

@@ -842,8 +842,8 @@
       font-size: 1.2rem; } }
 
 .Navbar {
-  justify-content: space-between;
-  padding: 30px 10px;
+  justify-content: space-evenly;
+  padding: 25px 10px;
   background: #fafbfd; }
   .Navbar .Navbar__toggle {
     position: absolute;
@@ -872,10 +872,16 @@
 
 @media (min-width: 760px) {
   .Navbar {
-    justify-content: space-around; }
+    justify-content: space-around;
+    padding: 5px 10px; }
+    .Navbar .Navbar__logo {
+      position: relative;
+      left: 10px;
+      top: 15px; }
     .Navbar .Navbar__items {
       display: flex;
-      gap: 1rem; }
+      gap: 1rem;
+      margin-top: 2rem; }
   .Navbar__toggle {
     display: none; } }
 
