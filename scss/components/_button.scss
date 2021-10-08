@@ -1,0 +1,14 @@
+@import "../utils/settings";
+
+.primary-btn {
+    font-family: $primary-font;
+    gap: 10px;
+    background: $primary-color;
+    border: transparent;
+    width: 10rem;
+    height: 2.9rem;
+    border-radius: 10px;
+    color: $white;
+    font-weight: 600;
+    margin: 10px auto;
+}

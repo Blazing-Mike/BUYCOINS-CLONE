@@ -1,0 +1,60 @@
+@import "../utils/settings";
+
+.Navbar {
+    justify-content: space-between;
+    padding: 30px 10px;
+    background: $grey;
+
+    .Navbar__toggle {
+        position: absolute;
+        right: 10px;
+        top: 15px;
+    }
+
+    .Navbar__logo {
+        position: absolute;
+        left: 10px;
+        top: 15px;
+    }
+
+    .Navbar__items {
+        display: none;
+    }
+
+    .Navbar__toggleShow {
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+
+        .primary-btn {
+            margin: auto;
+            margin-bottom: -1.3rem;
+            width: 21rem;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+
+    }
+
+    .primary-btn {
+        margin: 0;
+        margin-top: -10px;
+    }
+
+}
+
+@media (min-width: 760px) {
+    .Navbar {
+        justify-content: space-around;
+
+        .Navbar__items {
+            display: flex;
+            gap: 1rem;
+        }
+    }
+
+    .Navbar__toggle {
+        display: none;
+    }
+}

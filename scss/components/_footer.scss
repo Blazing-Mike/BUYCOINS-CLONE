@@ -1,0 +1,21 @@
+@import "../utils/settings";
+
+.footer {
+    padding: 100px 20px;
+    justify-content: center;
+
+    .footer__item {
+        .small-heading {
+            margin-bottom: 15px;
+        }
+
+        width: 20rem;
+
+        ul {
+            gap: 5px;
+        }
+    }
+
+}
+
+@media(min-width:760px) {}

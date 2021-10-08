@@ -1,0 +1,145 @@
+$white: #fff;
+$black: #000;
+$primary-color:#b38cfc;
+$orange: #fa7a43;
+$accent-orange: #fafafa;
+$dark-purple: #04000c;
+$primary-purple: #0b011c;
+$white-purple: rgba(255, 255, 255, .2);
+$grey: #fafbfd;
+
+.gap {
+    gap: 5px;
+}
+
+.gap-x {
+    gap: 1rem;
+}
+
+.gap-xx {
+    gap: 2rem;
+}
+
+.gap-xxx {
+    gap: 4rem;
+}
+
+.dropdown-icon {
+    width: 1rem;
+}
+
+.logo {
+    width: 7rem;
+}
+
+.hamburger {
+    width: 2rem;
+}
+
+.mockup-screen {
+    width: 7rem;
+}
+
+.purple-circle {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background: $primary-color;
+}
+
+.screen-2 {
+    width: 18rem;
+}
+
+.crypto {
+    width: 3rem;
+    position: absolute;
+}
+
+.line {
+    width: 1px;
+    height: 60px;
+    background: $primary-color;
+    opacity: 0.3;
+
+}
+
+.woman {
+    width: 20rem;
+}
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+    width: 4rem;
+    height: 4rem;
+}
+
+.buy-icon {
+    margin-left: -0.4rem;
+}
+
+.download {
+    width: 2rem;
+}
+
+.download-app {
+    .dark-btn {
+        background-color: $dark-purple;
+    }
+
+    .download-container {
+        width: 9.9rem;
+        border-radius: 10px;
+        gap: 10px;
+        padding: 5px;
+        transition: 1200ms ease-in-out linear;
+
+        &:hover {
+            transform: scale(1.1);
+        }
+
+        .para {
+            font-size: 0.9rem;
+        }
+
+    }
+
+
+
+}
+
+.light-btn {
+    background: $white-purple;
+}
+
+
+@media (min-width: 760px) {
+    .mockup-screen {
+        width: 17rem;
+    }
+
+    .woman {
+        width: 23rem;
+    }
+
+    .download-app {
+
+        .download-container {
+            width: 11rem;
+            height: 3.8rem;
+            border-radius: 10px;
+            gap: 10px;
+            padding: 5px;
+            transition: 1000ms ease-in-out linear;
+
+            .para {
+                font-size: 1.2rem;
+            }
+
+        }
+
+
+
+    }
+}

@@ -1,0 +1,168 @@
+@import "../utils/settings";
+
+.features {
+    background: $accent-orange;
+    padding: 70px 0 40px 0;
+
+    .features-heading {
+        .small-heading {
+            padding: 10px 0;
+            color: $orange;
+        }
+
+        text-align: center;
+    }
+
+    .features-container {
+        margin: 1rem 0;
+
+        .features__item {
+            z-index: 2;
+            width: 19rem;
+            padding: 20px 15px;
+            border-radius: 10px;
+            background: $white;
+
+
+
+            .features__item-icon {
+                margin: 1.5rem 0;
+
+                .features-icon {
+                    margin-bottom: -25px;
+                }
+
+                .purple-circle {
+                    align-self: flex-end;
+                    margin-right: -13px;
+
+                }
+
+            }
+        }
+    }
+}
+
+.getting-started {
+    padding: 20px 0;
+
+    .get-started___screen {
+
+        .bitcoin {
+            right: 7rem;
+            margin-top: -3rem;
+
+        }
+
+        .usdc {
+            right: 30%;
+            margin-top: 5rem;
+        }
+
+        .ether {
+            right: 5%;
+            margin-top: 1rem;
+        }
+
+        .litecoin {
+            right: 5%;
+            margin-top: -4.5rem;
+        }
+    }
+
+    .get-started___text {
+        padding: 10px;
+
+        .med-heading-big {
+            margin: 1rem 0;
+        }
+
+        .get-started__step {
+            width: 20rem;
+            align-items: flex-start;
+        }
+
+
+    }
+}
+
+.try-buycoins {
+    background: $accent-orange;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    padding: 25px 10px;
+
+    .try-buycoins__text {
+        margin: 1rem 0;
+    }
+
+    .feature-item {
+
+        margin: 1rem 0;
+        align-items: flex-start;
+
+        .feature-icon {
+            width: 3rem;
+            height: 3rem;
+            background: white;
+            border-radius: 50%;
+            box-shadow: 0px 0px 2px 0px rgb(219, 212, 212);
+        }
+
+    }
+
+
+}
+
+.buycoins-pro {
+    background: $primary-purple;
+    color: white;
+    padding: 10px;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+
+    .buycoins-pro__image {
+        .pro-image {
+            width: 20rem;
+        }
+    }
+
+    .med-heading-big {
+        margin: 10px;
+    }
+
+    .feature-item {
+        margin: 1rem 20px;
+        width: 20rem;
+
+        .feature-icon {
+            .icon {
+                width: 3rem;
+                height: 3rem;
+                background: $white;
+                border-radius: 50%;
+            }
+        }
+    }
+
+}
+
+.outro {
+    margin: 3rem 10px;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    background: $accent-orange;
+    border-radius: 25px;
+
+    .outro__text {
+        .med-heading {
+            padding-bottom: 20px;
+            font-size: 1.3rem;
+        }
+    }
+
+    .screen {
+        width: 8rem;
+    }
+}

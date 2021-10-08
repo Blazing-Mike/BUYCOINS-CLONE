@@ -1,0 +1,78 @@
+@import "../utils/settings";
+//styles that belongs to header
+
+.Hero {
+    text-align: center;
+    padding: 10px;
+
+
+    .Hero__text {
+        .big-heading {
+            padding: 10px 0;
+        }
+    }
+
+
+}
+
+.Hero-image {
+    background: url("/ASSETS/asset\ 0.png") no-repeat center;
+    background-size: cover;
+    background-position-y: 0px;
+    height: 300px;
+    margin-top: -5rem;
+
+
+}
+
+.Hero-image-screens {
+    margin-bottom: -3rem;
+
+    .light {
+        z-index: 2;
+        transform: rotate(-15deg);
+
+        &:hover {
+            z-index: 4;
+            width: 10rem;
+
+        }
+    }
+}
+
+.dark {
+    width: 10rem;
+    z-index: 1;
+    transform: rotate(10deg);
+    margin-left: -2rem;
+}
+
+@media (min-width: 760px) {
+    .Hero {
+        margin-top: 3rem;
+        margin-bottom: -1rem;
+
+        .Hero__text {
+            max-width: 35rem;
+            margin: 10px auto;
+        }
+
+        .big-heading {
+            font-size: 5rem;
+        }
+    }
+
+    .Hero-image {
+        background: url("/ASSETS/asset\ 0.png") no-repeat center;
+        background-size: cover;
+        background-position-y: 60px;
+        height: 1300px;
+        margin-top: 8rem;
+
+
+    }
+
+    .Hero-image-screens {
+        margin-bottom: -4rem;
+    }
+}

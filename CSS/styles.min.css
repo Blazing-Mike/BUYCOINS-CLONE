@@ -1,0 +1,1119 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.Navbar__links {
+  font-weight: 500;
+  color: #000;
+  font-size: 1.2rem; }
+
+.para {
+  font-size: 1rem; }
+  .para::selection {
+    background: #b38cfc; }
+
+.big-heading {
+  font-size: 2.2rem; }
+
+.med-heading {
+  font-size: 1.2rem; }
+
+.med-heading-big {
+  font-size: 1.6rem; }
+
+.small-heading {
+  font-size: 1.1rem; }
+
+.smaller-heading {
+  font-size: 0.9rem; }
+
+.bold {
+  font-weight: 600; }
+
+.purple-text {
+  color: #b38cfc; }
+
+.white-text {
+  color: #fff; }
+
+.footer_link {
+  color: #000;
+  font-size: 1rem; }
+  .footer_link:hover {
+    color: #b38cfc; }
+
+@media (min-width: 760px) {
+  .para {
+    font-size: 1.1rem; }
+  .med-heading {
+    font-size: 1.7rem; }
+  .med-heading-big {
+    font-size: 2.6rem; } }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.primary-btn {
+  font-family: "Ubuntu", sans-serif;
+  gap: 10px;
+  background: #b38cfc;
+  border: transparent;
+  width: 10rem;
+  height: 2.9rem;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  margin: 10px auto; }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.footer {
+  padding: 100px 20px;
+  justify-content: center; }
+  .footer .footer__item {
+    width: 20rem; }
+    .footer .footer__item .small-heading {
+      margin-bottom: 15px; }
+    .footer .footer__item ul {
+      gap: 5px; }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.features {
+  background: #fafafa;
+  padding: 70px 0 40px 0; }
+  .features .features-heading {
+    text-align: center; }
+    .features .features-heading .small-heading {
+      padding: 10px 0;
+      color: #fa7a43; }
+  .features .features-container {
+    margin: 1rem 0; }
+    .features .features-container .features__item {
+      z-index: 2;
+      width: 19rem;
+      padding: 20px 15px;
+      border-radius: 10px;
+      background: #fff; }
+      .features .features-container .features__item .features__item-icon {
+        margin: 1.5rem 0; }
+        .features .features-container .features__item .features__item-icon .features-icon {
+          margin-bottom: -25px; }
+        .features .features-container .features__item .features__item-icon .purple-circle {
+          align-self: flex-end;
+          margin-right: -13px; }
+
+.getting-started {
+  padding: 20px 0; }
+  .getting-started .get-started___screen .bitcoin {
+    right: 7rem;
+    margin-top: -3rem; }
+  .getting-started .get-started___screen .usdc {
+    right: 30%;
+    margin-top: 5rem; }
+  .getting-started .get-started___screen .ether {
+    right: 5%;
+    margin-top: 1rem; }
+  .getting-started .get-started___screen .litecoin {
+    right: 5%;
+    margin-top: -4.5rem; }
+  .getting-started .get-started___text {
+    padding: 10px; }
+    .getting-started .get-started___text .med-heading-big {
+      margin: 1rem 0; }
+    .getting-started .get-started___text .get-started__step {
+      width: 20rem;
+      align-items: flex-start; }
+
+.try-buycoins {
+  background: #fafafa;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  padding: 25px 10px; }
+  .try-buycoins .try-buycoins__text {
+    margin: 1rem 0; }
+  .try-buycoins .feature-item {
+    margin: 1rem 0;
+    align-items: flex-start; }
+    .try-buycoins .feature-item .feature-icon {
+      width: 3rem;
+      height: 3rem;
+      background: white;
+      border-radius: 50%;
+      box-shadow: 0px 0px 2px 0px #dbd4d4; }
+
+.buycoins-pro {
+  background: #0b011c;
+  color: white;
+  padding: 10px;
+  flex-wrap: wrap-reverse;
+  justify-content: center; }
+  .buycoins-pro .buycoins-pro__image .pro-image {
+    width: 20rem; }
+  .buycoins-pro .med-heading-big {
+    margin: 10px; }
+  .buycoins-pro .feature-item {
+    margin: 1rem 20px;
+    width: 20rem; }
+    .buycoins-pro .feature-item .feature-icon .icon {
+      width: 3rem;
+      height: 3rem;
+      background: #fff;
+      border-radius: 50%; }
+
+.outro {
+  margin: 3rem 10px;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  background: #fafafa;
+  border-radius: 25px; }
+  .outro .outro__text .med-heading {
+    padding-bottom: 20px;
+    font-size: 1.3rem; }
+  .outro .screen {
+    width: 8rem; }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.Hero {
+  text-align: center;
+  padding: 10px; }
+  .Hero .Hero__text .big-heading {
+    padding: 10px 0; }
+
+.Hero-image {
+  background: url("/ASSETS/asset 0.png") no-repeat center;
+  background-size: cover;
+  background-position-y: 0px;
+  height: 300px;
+  margin-top: -5rem; }
+
+.Hero-image-screens {
+  margin-bottom: -3rem; }
+  .Hero-image-screens .light {
+    z-index: 2;
+    transform: rotate(-15deg); }
+    .Hero-image-screens .light:hover {
+      z-index: 4;
+      width: 10rem; }
+
+.dark {
+  width: 10rem;
+  z-index: 1;
+  transform: rotate(10deg);
+  margin-left: -2rem; }
+
+@media (min-width: 760px) {
+  .Hero {
+    margin-top: 3rem;
+    margin-bottom: -1rem; }
+    .Hero .Hero__text {
+      max-width: 35rem;
+      margin: 10px auto; }
+    .Hero .big-heading {
+      font-size: 5rem; }
+  .Hero-image {
+    background: url("/ASSETS/asset 0.png") no-repeat center;
+    background-size: cover;
+    background-position-y: 60px;
+    height: 1300px;
+    margin-top: 8rem; }
+  .Hero-image-screens {
+    margin-bottom: -4rem; } }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+.Navbar {
+  justify-content: space-between;
+  padding: 30px 10px;
+  background: #fafbfd; }
+  .Navbar .Navbar__toggle {
+    position: absolute;
+    right: 10px;
+    top: 15px; }
+  .Navbar .Navbar__logo {
+    position: absolute;
+    left: 10px;
+    top: 15px; }
+  .Navbar .Navbar__items {
+    display: none; }
+  .Navbar .Navbar__toggleShow {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; }
+    .Navbar .Navbar__toggleShow .primary-btn {
+      margin: auto;
+      margin-bottom: -1.3rem;
+      width: 21rem;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0; }
+  .Navbar .primary-btn {
+    margin: 0;
+    margin-top: -10px; }
+
+@media (min-width: 760px) {
+  .Navbar {
+    justify-content: space-around; }
+    .Navbar .Navbar__items {
+      display: flex;
+      gap: 1rem; }
+  .Navbar__toggle {
+    display: none; } }
+
+.gap {
+  gap: 5px; }
+
+.gap-x {
+  gap: 1rem; }
+
+.gap-xx {
+  gap: 2rem; }
+
+.gap-xxx {
+  gap: 4rem; }
+
+.dropdown-icon {
+  width: 1rem; }
+
+.logo {
+  width: 7rem; }
+
+.hamburger {
+  width: 2rem; }
+
+.mockup-screen {
+  width: 7rem; }
+
+.purple-circle {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #b38cfc; }
+
+.screen-2 {
+  width: 18rem; }
+
+.crypto {
+  width: 3rem;
+  position: absolute; }
+
+.line {
+  width: 1px;
+  height: 60px;
+  background: #b38cfc;
+  opacity: 0.3; }
+
+.woman {
+  width: 20rem; }
+
+.trade-icon,
+.lock-icon,
+.buy-icon {
+  width: 4rem;
+  height: 4rem; }
+
+.buy-icon {
+  margin-left: -0.4rem; }
+
+.download {
+  width: 2rem; }
+
+.download-app .dark-btn {
+  background-color: #04000c; }
+
+.download-app .download-container {
+  width: 9.9rem;
+  border-radius: 10px;
+  gap: 10px;
+  padding: 5px;
+  transition: 1200ms ease-in-out linear; }
+  .download-app .download-container:hover {
+    transform: scale(1.1); }
+  .download-app .download-container .para {
+    font-size: 0.9rem; }
+
+.light-btn {
+  background: rgba(255, 255, 255, 0.2); }
+
+@media (min-width: 760px) {
+  .mockup-screen {
+    width: 17rem; }
+  .woman {
+    width: 23rem; }
+  .download-app .download-container {
+    width: 11rem;
+    height: 3.8rem;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 5px;
+    transition: 1000ms ease-in-out linear; }
+    .download-app .download-container .para {
+      font-size: 1.2rem; } }
+
+@media (min-width: 760px) {
+  .features {
+    padding: 70px 10px; }
+    .features .features-heading .med-heading {
+      padding: 20px 0;
+      font-size: 2.5rem;
+      width: 70%;
+      margin: auto; }
+    .features .features-container {
+      margin: 1rem 0; }
+      .features .features-container .features__item {
+        z-index: 2;
+        width: 17rem;
+        padding: 40px 15px;
+        height: 11rem;
+        border-radius: 10px;
+        background: #fff; }
+        .features .features-container .features__item .features__item-icon {
+          margin: 1.5rem 0; }
+          .features .features-container .features__item .features__item-icon .features-icon {
+            margin-bottom: -25px; }
+          .features .features-container .features__item .features__item-icon .purple-circle {
+            align-self: flex-end;
+            margin-right: -13px; }
+  .getting-started {
+    padding: 70px 10px;
+    justify-content: center;
+    gap: 7rem; }
+    .getting-started .get-started___screen .screen-2 {
+      width: 25rem; }
+    .getting-started .get-started___screen .bitcoin {
+      left: 35%;
+      margin-top: -3rem; }
+    .getting-started .get-started___screen .usdc {
+      left: 35%;
+      margin-top: 5rem; }
+    .getting-started .get-started___screen .ether {
+      right: 55%;
+      margin-top: 1rem; }
+    .getting-started .get-started___screen .litecoin {
+      right: 55%;
+      margin-top: -4.5rem; }
+    .getting-started .get-started___text {
+      padding: 10px; }
+      .getting-started .get-started___text .med-heading-big {
+        margin: 1rem 0;
+        padding: 10px 0; }
+      .getting-started .get-started___text .get-started__step {
+        width: 27rem;
+        align-items: flex-start; }
+  .try-buycoins {
+    gap: 6rem;
+    padding: 80px 10px; }
+    .try-buycoins .feature-item {
+      width: 24rem;
+      margin: 2rem 0;
+      align-items: flex-start; }
+  .buycoins-pro {
+    gap: 4rem;
+    padding: 50px 10px; }
+    .buycoins-pro .buycoins-pro__image .pro-image {
+      width: 27rem; }
+    .buycoins-pro .feature-item {
+      width: 22rem; }
+  .outro {
+    width: 60%;
+    margin: 2rem auto;
+    justify-content: space-evenly;
+    text-align: left; }
+    .outro .outro__text .med-heading {
+      padding-bottom: 20px;
+      font-size: 2.8rem; }
+    .outro .screen {
+      width: 10rem;
+      transform: rotate(10deg);
+      margin-bottom: -1rem; } }
+
+styles you want to change globall example * {
+  font-family: "Ubuntu", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  scroll-behavior: smooth; }
+
+html,
+body {
+  overflow-x: hidden;
+  padding: 0px;
+  margin: 0px;
+  scroll-behavior: smooth;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+  padding: 0px; }
+  h1::selection,
+  h2::selection,
+  h3::selection,
+  h4::selection,
+  h5::selection,
+  h6::selection,
+  p::selection {
+    background: #b38cfc; }
+
+ul,
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px; }
+
+a {
+  text-decoration: none; }
+  a::selection {
+    background: #b38cfc; }
+
+.flex, .flex-aligned, .flex-perfect, .fd-column {
+  display: flex; }
+
+.flex-aligned, .flex-perfect {
+  align-items: center; }
+
+.flex-perfect {
+  justify-content: center; }
+
+.fw-wrap {
+  flex-wrap: wrap; }
+
+.fw-wrap-r {
+  flex-wrap: wrap-reverse; }
+
+.fd-column {
+  flex-direction: column; }
+
+.fd-column-r {
+  flex-direction: column-reverse; }
+
+.fd-row {
+  flex-direction: row; }
+
+.fd-row-r {
+  flex-direction: row-reverse; }
